@@ -1,0 +1,8 @@
+--extra-index-url https://download.pytorch.org/whl/cu128
+
+torch
+scikit-learn
+
+numpy
+matplotlib
+jupyterlab
